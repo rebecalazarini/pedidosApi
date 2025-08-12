@@ -9,5 +9,6 @@
 ```bash
 npm install
 npx prisma init --datasource-provider mysql
+npx nodemon
 ```
 - Não esqueça de estar com o xampp mysql rodando
